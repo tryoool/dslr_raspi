@@ -1,4 +1,4 @@
 dslr_raspi
 ==========
 
-Using Cellphone control the DSLR through RaspberryPi. 
+Using mobile to control the DSLR through RaspberryPi. 
